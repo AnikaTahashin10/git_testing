@@ -1,3 +1,3 @@
 my name is anika
-i am a full stack web dev student.
+i am learning to be a full stack web dev
 this is the new change.
