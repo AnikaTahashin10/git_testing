@@ -1,3 +1,2 @@
-my name is anika
-i am learning to be a full stack web dev
-this is the new change.
+Hello!!
+I am Anika Tahashin, an aspiring Full Stack Web Developer.
